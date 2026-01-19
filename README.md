@@ -46,7 +46,10 @@ Source file used:
 
 * `Business_Sales_Report.twbx` – Tableau packaged workbook
 * `regional_sales_tableau.xls.xlsx` – Dataset
-* `project.png` – Dashboard preview image
+* ## 📸 Dashboard Preview
+
+![Business Sales Intelligence Report](project.png)
+
 * 
 
 ---
