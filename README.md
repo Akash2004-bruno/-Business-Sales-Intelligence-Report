@@ -48,7 +48,7 @@ Source file used:
 * `regional_sales_tableau.xls.xlsx` – Dataset
 * ## 📸 Dashboard Preview
 
-![Business Sales Intelligence Report](project.png)
+![Business Sales Intelligence Report](BSI-Dashboard.png)
 
 * 
 
